@@ -11,4 +11,4 @@ Unzip "Copy IP to clipboard.zip" from the repository and move "Copy IP to clipbo
 2. Use the unique key combination anywhere to have your external IP saved in your clipboard
 
 ### Author
-Or Guz
+[Or Guz](https://github.com/orpx)
