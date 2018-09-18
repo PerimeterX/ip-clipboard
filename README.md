@@ -2,7 +2,7 @@
 macOS Automator workflows/services to make your life easier when copying/pasting your IP address
 
 ### Installation
-Unzip the relevant zip file ("Copy IP to clipboard.zip" / "Paste IP.zip") from the repository and extract it into ~/Library/Services
+Unzip the relevant zip file ("Copy IP to clipboard.zip" / "Paste IP.zip") from the repository services folder and extract it into ~/Library/Services
 
 ### Usage recommendation
 1. Define a keyboard shortcut for the new service:
